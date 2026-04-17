@@ -1,2 +1,2 @@
-console.log("Variables in JavaScript ");
+console.log("Hi  Dhilipan Welcome to JavaScript Variables");
 
